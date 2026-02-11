@@ -59,9 +59,9 @@ c.close()
 ```
 
 ## OUPUT
-SERVER-
+##SERVER-
 <img width="642" height="297" alt="SERVERoutput" src="https://github.com/user-attachments/assets/8afda548-be5a-427c-8dee-961ad6cd2794" />
-CLIENT-
+##CLIENT-
 <img width="605" height="277" alt="clientouput" src="https://github.com/user-attachments/assets/39ccf401-9517-4f14-b4f0-3967bf5095e7" />
 
 ## RESULT
